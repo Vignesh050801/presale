@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/presale/static/css/main.7c77bcf3.css",
+    "main.js": "/presale/static/js/main.a3c49fef.js",
+    "index.html": "/presale/index.html",
+    "main.7c77bcf3.css.map": "/presale/static/css/main.7c77bcf3.css.map",
+    "main.a3c49fef.js.map": "/presale/static/js/main.a3c49fef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c77bcf3.css",
+    "static/js/main.a3c49fef.js"
+  ]
+}
